@@ -1,9 +1,9 @@
 ---
-description: 'HackTheBox recommended machines. HTB: etafel01#1321737'
+description: >-
+  Bonus points: 80% correct exercise solutions + 30 proof.txt submitted for lab
+  machines
 ---
 
-# HackTheBox (HTB)
+# 💻 PEN-200
 
-Walkthroughs were referenced for all boxes.
-
-Try Harder!
+Link to course material --- "C:\Users\etafel\OneDrive\Desktop\Penetration Testing\OSCP.PEN-200 PWK.OSCP Course.pdf"
